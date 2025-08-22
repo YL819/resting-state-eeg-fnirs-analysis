@@ -12,11 +12,12 @@ The analysis pipeline includes:
 - **EEG preprocessing and microstate analysis**
   - ......
 - **Statistical analysis scripts**
+  - fNIRS PLV Group-Level Statistics
   - ......
 
 ## Current contents
 - `fNIRS_PLV_calculation.m` – Compute PLV connectivity matrices from preprocessed fNIRS data.
-- ......
+- `fNIRS_PLV_statistics.m` – fNIRS PLV Group-Level Statistics
 
 ## Requirements
 - MATLAB R2021b
