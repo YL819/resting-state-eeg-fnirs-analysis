@@ -17,7 +17,9 @@ The analysis pipeline includes:
 
 ## Current contents
 - `fNIRS_PLV_calculation.m` – Compute PLV connectivity matrices from preprocessed fNIRS data.
+- `fNIRS_PLV_ROI_calculation.m` – extracts ROI-level oxyHb signals from preprocessed fNIRS data and computes pairwise PLV matrices for each subject.
 - `fNIRS_PLV_statistics.m` – fNIRS PLV Group-Level Statistics
+- 
 
 ## Requirements
 - MATLAB R2021b
