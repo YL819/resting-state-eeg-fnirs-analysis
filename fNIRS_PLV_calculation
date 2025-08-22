@@ -51,4 +51,4 @@ for sub = 1:length(FileNames)
 end
 
 %% Step 3: Save results
-save PLVmatrix_resting.mat plv_oxy
+save PLVmatrix_resting_young.mat plv_oxy
